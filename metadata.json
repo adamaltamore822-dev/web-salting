@@ -1,0 +1,6 @@
+{
+  "name": "Salting Reus & lasertag",
+  "description": "Página oficial de Salting Reus & lasertag. Reserva tu fiesta de cumpleaños, partidas de laser tag o saltos de trampolín en Reus, Tarragona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
